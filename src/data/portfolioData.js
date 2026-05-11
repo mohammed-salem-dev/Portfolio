@@ -14,7 +14,7 @@ export const personalInfo = {
     "https://cdn.abacus.ai/images/408fc053-b9ae-4902-bfa0-6af5390ae738.png",
 };
 
-export const aboutText = `I am a final year Software Engineering student at Haliç University in Istanbul, Türkiye, with experience in full-stack web development. I have completed internship and freelance projects building scalable applications with modern technologies like React, Next.js, Node.js, and PostgreSQL. Additionally, I have experience in academic research, co-authoring three conference papers in areas such as machine learning and network modeling. I am passionate about my field and would love to learn more and grow better as a developer.`;
+export const aboutText = `I am a final year Software Engineering student at Haliç University in Istanbul, Türkiye, with experience in full-stack web development. I have completed internship and freelance projects building scalable applications with modern technologies like React, Next.js, Node.js, and PostgreSQL. Additionally, I have experience in academic research, co-authoring three conference papers in areas such as machine learning and network modeling.`;
 
 // ── Skills ────────────────────────────────────────────────────
 // Used by Skills.jsx via `skillCategories`
