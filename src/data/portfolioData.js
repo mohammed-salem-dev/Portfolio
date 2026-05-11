@@ -10,8 +10,7 @@ export const personalInfo = {
   location: "Istanbul, Türkiye",
   github: "https://github.com/mohammed-salem-dev",
   linkedin: "https://www.linkedin.com/in/mohammed-salem-70ba69326/",
-  profileImage:
-    "https://cdn.abacus.ai/images/408fc053-b9ae-4902-bfa0-6af5390ae738.png",
+  profileImage: "/images/profile2.jpeg",
 };
 
 export const aboutText = `"I'm a Software Engineering student at Haliç University, Istanbul — building full-stack web applications and contributing to applied ML research. I've shipped production-grade apps using React, Next.js, Node.js, and PostgreSQL, and co-authored three papers published at international conferences covering machine learning and wireless network modeling. I care about writing clean, maintainable code and solving problems that are worth solving."`;
