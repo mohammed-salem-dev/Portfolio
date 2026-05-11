@@ -59,7 +59,7 @@ export const projects = [
       "Prisma",
       "PostgreSQL",
     ],
-    githubLink: "https://github.com/mohammed-salem-dev",
+    githubLink: "https://github.com/mohammed-salem-dev/supportdesk",
     liveLink: null,
     screenshots: [
       {
@@ -124,7 +124,7 @@ export const projects = [
       "Full-stack system for tracking and managing inventory. Built during my internship at Ultimate Solutions.",
     year: "2025",
     technologies: ["React", "Node.js", "REST API", "JavaScript", "CSS"],
-    githubLink: "https://github.com/mohammed-salem-dev",
+    githubLink: "https://github.com/mohammed-salem-dev/Inventory-Management-System",
     liveLink: null,
     screenshots: [
       {
@@ -151,7 +151,7 @@ export const projects = [
       "Responsive website for technology product reviews. Built as a university course project.",
     year: "2024",
     technologies: ["HTML", "CSS", "JavaScript"],
-    githubLink: "https://github.com/mohammed-salem-dev",
+    githubLink: "https://github.com/mohammed-salem-dev/Tech-Review-Website",
     liveLink: null,
     screenshots: [
       {
