@@ -204,7 +204,7 @@ function Navbar({ theme, toggleTheme }) {
               onClick={() => scrollTo("contact")}
               style={{ display: "none" }}
             >
-              Hire Me
+              Contact Me
             </button>
             <button
               className="theme-toggle mobile-only"
