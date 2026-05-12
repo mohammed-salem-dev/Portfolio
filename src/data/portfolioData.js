@@ -83,7 +83,7 @@ export const projects = [
     title: "YachtDrop",
     description:
       "Mobile-first web app for yacht supply ordering with a clean UX flow. Built during a Hackathon.",
-    year: "2025",
+    year: "2026",
     technologies: [
       "React",
       "Next.js",
